@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">LogPyx Wi-Fi</string>
+    <string name="app_name">LogPyx Wifi</string>
 
     <string name="string_unknown">Unknown</string>
 
-    <string name="main_title">LogPyx Wi-Fi</string>
+    <string name="main_title">LogPyx Wifi</string>
     <string name="main_bt_disable_msg">Bluetooth is disable</string>
     <string name="main_location_disable_msg">Location is disable</string>
     <string name="main_menu_settings">Settings</string>

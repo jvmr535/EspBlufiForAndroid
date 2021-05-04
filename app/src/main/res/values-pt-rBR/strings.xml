@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LogPyx Wifi</string>
+
+    <string name="string_unknown">Desconhecido</string>
+
+    <string name="main_title">LogPyx Wifi</string>
+    <string name="main_bt_disable_msg">Bluetooth está disabilitado</string>
+    <string name="main_location_disable_msg">Localização está desabilitada</string>
+    <string name="main_menu_settings">Configurações</string>
+
+    <string name="blufi_function_connect">Conectar</string>
+    <string name="blufi_function_connect_msg">Tentando conectar o dispositivo</string>
+    <string name="blufi_function_disconnect">Desconectar</string>
+    <string name="blufi_function_disconnect_msg">Desconectar dispositivo</string>
+    <string name="blufi_function_security">Segurança</string>
+    <string name="blufi_function_security_msg">Negociar segurança com o dispositivo</string>
+    <string name="blufi_function_version">Versão</string>
+    <string name="blufi_function_version_msg">Obtenha a versão BluFi do dispositivo</string>
+    <string name="blufi_function_device_status">Status</string>
+    <string name="blufi_function_device_status_msg">Obtenha o status do dispositivo</string>
+    <string name="blufi_function_configure">Configurar</string>
+    <string name="blufi_function_configure_msg">Configurar rede para dispositivo</string>
+    <string name="blufi_function_device_scan">ScanWifi</string>
+    <string name="blufi_function_device_scan_msg">Obtenha a lista SSID do dispositivo verificado</string>
+    <string name="blufi_function_custom">Personalizado</string>
+    <string name="blufi_function_custom_msg">Envie dados personalizados para o dispositivo</string>
+    <string name="blufi_custom_dialog_title">Texto personalizado de entrada</string>
+
+    <string name="configure_title">Configurar</string>
+    <string name="configure_sel_device_mode">Selecione o modo do dispositivo</string>
+    <string name="configure_softap_security">Segurança SoftAP</string>
+    <string name="configure_softap_ssid">SoftAP SSID</string>
+    <string name="configure_softap_password">Senha SoftAP</string>
+    <string name="configure_softap_password_error">Senha SoftAP é pequena demais</string>
+    <string name="configure_softap_channel">Canal SoftAP</string>
+    <string name="configure_softap_max_connection">Máximo de conexões do SoftAP</string>
+    <string name="configure_station_sel_wifi">Selecione o Wifi</string>
+    <string name="configure_station_ssid">Wifi SSID</string>
+    <string name="configure_station_ssid_error">Wifi ssid não pode estar vazio</string>
+    <string name="configure_station_wifi_5g_error">O dispositivo não suporta Wifi 5G</string>
+    <string name="configure_station_wifi_5g_dialog_message">O dispositivo não suporta Wifi 5G, deseja continuar configurando?</string>
+    <string name="configure_station_wifi_5g_dialog_continue">Continuar</string>
+    <string name="configure_station_wifi_5g_dialog_cancel">Cancelar</string>
+    <string name="configure_station_password">Senha Wifi</string>
+    <string name="configure_station_wifi_scanning">Procurando Wifi</string>
+    <string name="configure_station_wifi_scanning_nothing">Nenhum Wifi encontrado</string>
+    <string name="configure_wifi_disable_msg">Wifi está desabilitado</string>
+    <string name="configure_wifi_no_selected_msg">Nenhum wifi selecionado</string>
+
+    <string name="settings_title">Configurações</string>
+    <string name="settings_category_blufi_key">setting_category_blufi</string>
+    <string name="settings_category_blufi_title">BluFi</string>
+    <string name="settings_mtu_length_key">settings_key_mtu_length</string>
+    <string name="settings_mtu_length_title">Set mtu length</string>
+    <string name="settings_mtu_length_hint">Entre com um número maior que 15</string>
+    <string name="settings_ble_prefix_key">settings_key_ble_prefix</string>
+    <string name="settings_ble_prefix_title">Filtro de dispositivos BLE</string>
+    <string name="settings_ble_prefix_hint">Nome do dispositivo começa com</string>
+    <string name="settings_category_version_title">Versão</string>
+    <string name="settings_version_key">settings_key_version</string>
+    <string name="settings_version_title">Versão do APP</string>
+    <string name="settings_blufi_version_key">settings_key_blufi_version</string>
+    <string name="settings_blufi_version_title">Versão da biblioteca BluFi</string>
+    <string name="settings_upgrade_check_key">settings_upgrade_check</string>
+    <string name="settings_upgrade_check_title">Checar última versão do APP</string>
+    <string name="settings_upgrade_check_failed">Falha ao obter as informações da versão mais recente</string>
+    <string name="settings_upgrade_check_not_found">Novo lançamento não encontrado</string>
+    <string name="settings_upgrade_check_current_latest">O APP atual é o mais recente</string>
+    <string name="settings_upgrade_check_disciver_new">Descubra a nova versão do APP, clique para baixar</string>
+    <string name="settings_upgrade_dialog_title">Descubra uma nova versão</string>
+    <string name="settings_upgrade_dialog_message">Clique em [Atualizar] para baixar o APK</string>
+    <string name="settings_upgrade_dialog_upgrade">Atualizar</string>
+</resources>
