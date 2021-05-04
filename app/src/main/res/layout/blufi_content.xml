@@ -34,15 +34,19 @@
             android:id="@+id/blufi_security"
             style="@style/BlufiActivityButtonBarButton"
             android:text="@string/blufi_function_security"
+            android:visibility="gone"
             app:layout_columnWeight="1"
-            app:layout_rowWeight="1" />
+            app:layout_rowWeight="1"
+            tools:visibility="gone" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/blufi_version"
             style="@style/BlufiActivityButtonBarButton"
             android:text="@string/blufi_function_version"
+            android:visibility="gone"
             app:layout_columnWeight="1"
-            app:layout_rowWeight="1" />
+            app:layout_rowWeight="1"
+            tools:visibility="gone" />
         <!-- Second Line -->
         <com.google.android.material.button.MaterialButton
             android:id="@+id/blufi_configure"
@@ -55,22 +59,28 @@
             android:id="@+id/blufi_device_status"
             style="@style/BlufiActivityButtonBarButton"
             android:text="@string/blufi_function_device_status"
+            android:visibility="gone"
             app:layout_columnWeight="1"
-            app:layout_rowWeight="1" />
+            app:layout_rowWeight="1"
+            tools:visibility="gone" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/blufi_device_scan"
             style="@style/BlufiActivityButtonBarButton"
             android:text="@string/blufi_function_device_scan"
+            android:visibility="gone"
             app:layout_columnWeight="1"
-            app:layout_rowWeight="1" />
+            app:layout_rowWeight="1"
+            tools:visibility="gone" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/blufi_custom"
             style="@style/BlufiActivityButtonBarButton"
             android:text="@string/blufi_function_custom"
+            android:visibility="gone"
             app:layout_columnWeight="1"
-            app:layout_rowWeight="1" />
+            app:layout_rowWeight="1"
+            tools:visibility="gone" />
     </androidx.gridlayout.widget.GridLayout>
 
     <androidx.recyclerview.widget.RecyclerView
